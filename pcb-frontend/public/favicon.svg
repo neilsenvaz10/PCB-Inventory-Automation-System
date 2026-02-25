@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 140" width="64" height="64">
+  <!-- Circuit traces -->
+  <line x1="30" y1="40" x2="30" y2="10" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="30" cy="8" r="4" fill="#0b2545"/>
+  <line x1="42" y1="40" x2="38" y2="5" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="38" cy="3" r="4" fill="#0b2545"/>
+  <line x1="50" y1="40" x2="50" y2="0" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="0" r="4" fill="#0b2545"/>
+  <line x1="58" y1="40" x2="62" y2="5" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="62" cy="3" r="4" fill="#0b2545"/>
+  <line x1="70" y1="40" x2="70" y2="10" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="70" cy="8" r="4" fill="#0b2545"/>
+  <!-- Box -->
+  <rect x="20" y="40" width="60" height="50" rx="6" fill="#0b2545"/>
+  <!-- Lightning bolt -->
+  <polygon points="54,48 44,68 50,68 46,85 56,62 50,62" fill="white"/>
+  <!-- Plug -->
+  <rect x="40" y="93" width="6" height="10" rx="1" fill="#0b2545"/>
+  <rect x="54" y="93" width="6" height="10" rx="1" fill="#0b2545"/>
+  <rect x="38" y="103" width="24" height="10" rx="3" fill="#0b2545"/>
+  <line x1="50" y1="113" x2="50" y2="130" stroke="#0b2545" stroke-width="3" stroke-linecap="round"/>
+</svg>
